@@ -15,7 +15,7 @@ Program juga menghitung jumlah operasi aritmetika dan mengukur waktu eksekusi, s
 
 Studi kasus juga tersedia sebagai halaman web interaktif (`Studi Kasus Eliminasi Gauss dan Dekomposisi LU.html`), langsung bisa dibuka di browser tanpa instalasi:
 
-**[Buka halaman studi kasus](https://khaerurrijalmahdar.github.io/Algoritma-Eliminasi-gauss-atau-Dekomposisi-LU/Studi%20Kasus%20Eliminasi%20Gauss%20dan%20Dekomposisi%20LU.html)**
+**[Buka halaman studi kasus](https://khaerurrijalmahdar.github.io/Algoritma-Eliminasi-gauss-atau-Dekomposisi-LU/index.html)**
 
 ## Isi repositori
 
@@ -32,17 +32,6 @@ Python 3.6+ saja. Tidak ada dependensi yang perlu diinstal.
 ## Cara menjalankan
 
 Unduh `Eliminasi Gauss dan Dekomposisi LU.py`, lalu jalankan:
-
-```bash
-python "Eliminasi Gauss dan Dekomposisi LU.py"              # menu interaktif
-python "Eliminasi Gauss dan Dekomposisi LU.py" kasus        # tiga studi kasus (3x3, 4x4, 5x5) x empat metode
-python "Eliminasi Gauss dan Dekomposisi LU.py" kasus -v     # + langkah-langkah detail
-python "Eliminasi Gauss dan Dekomposisi LU.py" ops          # verifikasi jumlah operasi terhadap rumus
-python "Eliminasi Gauss dan Dekomposisi LU.py" bench        # pengukuran waktu (sekitar 1-2 menit)
-python "Eliminasi Gauss dan Dekomposisi LU.py" input        # masukkan matriks sendiri
-```
-
-Tanpa argumen, program membuka menu interaktif, sehingga bisa juga dijalankan lewat tombol Run di editor.
 
 ## Contoh keluaran
 
