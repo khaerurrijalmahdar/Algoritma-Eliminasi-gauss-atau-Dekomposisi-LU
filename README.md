@@ -15,7 +15,7 @@ Program juga menghitung jumlah operasi aritmetika dan mengukur waktu eksekusi, s
 
 Studi kasus juga tersedia sebagai halaman web interaktif (`Studi Kasus Eliminasi Gauss dan Dekomposisi LU.html`), langsung bisa dibuka di browser tanpa instalasi:
 
-**[Buka halaman studi kasus](https://khaerurrijalmahdar.github.io/index.html)**
+**[Buka halaman studi kasus](https://khaerurrijalmahdar.github.io/Algoritma-Eliminasi-gauss-atau-Dekomposisi-LU/Studi%20Kasus%20Eliminasi%20Gauss%20dan%20Dekomposisi%20LU.html)**
 
 ## Isi repositori
 
